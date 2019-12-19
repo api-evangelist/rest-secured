@@ -1,0 +1,56 @@
+{
+    "name": "Rest Secured",
+    "description": "Test your enterprise API against any malicious penetration. An @efLDN company.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19786-rest-secured.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rest-secured\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rest Secured",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19786-rest-secured.jpg",
+            "humanURL": "http:\/\/www.restsecured.xyz\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rest-secured-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.restsecured.xyz\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.restsecured.xyz\/feed"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/restsecured"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.restsecured.xyz\/#pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rest_secured"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.restsecured.xyz\/"
+        }
+    ]
+}
